@@ -1,0 +1,154 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/uni_modules/vk-uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "AI智能问答"
+			}
+		}, {
+			"path": "pages/template/templateNew",
+			"style": {
+				"navigationBarTitleText": "提问模版",
+				"enablePullDownRefresh": false
+			}
+		},{
+			"path": "pages/user/userNew",
+			"style": {
+				"navigationBarTitleText": "个人中心",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"titleNView": false //取消顶部导航栏
+				}
+			}
+		}, {
+			"path": "pages/user/issureList/issureListNew",
+			"style": {
+				"navigationBarTitleText": "问答记录",
+				"enablePullDownRefresh": false,
+				"backgroundColor": "#4fc08d"
+			}
+		}, {
+			"path": "pages/user/withdraw/withdraw",
+			"style": {
+				"navigationBarTitleText": "提现",
+				"enablePullDownRefresh": false,
+				"backgroundColor": "#4fc08d"
+			}
+		}, {
+			"path": "pages/user/withdrawLog/withdrawLog",
+			"style": {
+				"navigationBarTitleText": "提现记录",
+				"enablePullDownRefresh": false,
+				"backgroundColor": "#4fc08d"
+			}
+		},
+		{
+			"path": "pages/user/editInfo/editInfo",
+			"style": {
+				"navigationBarTitleText": "修改资料",
+				"navigationBarFrontColor": "#FFFFFF",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#4fc08d"
+			}
+		},
+		{
+			"path": "pages/user/rechargeLog/rechargeLog",
+			"style": {
+				"navigationBarTitleText": "充值记录",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#4fc08d"
+			}
+		}, {
+			"path": "pages/user/team/team",
+			"style": {
+				"navigationBarTitleText": "我的团队",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#63acb6"
+			}
+		},
+		{
+			"path": "pages/user/team/sonListNew",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#63acb6"
+			}
+		}, {
+			"path": "pages/user/recharge/recharge",
+			"style": {
+				"navigationBarTitleText": "问答币/会员时长",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#63acb6"
+			}
+		}, {
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/login/appLogin",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/user/speciesList/speciesList",
+			"style": {
+				"navigationBarTitleText": "问答币流水",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/user/share/share",
+			"style": {
+				"navigationBarTitleText": "推广海报",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/user/sign/signNew",
+			"style": {
+				"navigationBarTitleText": "签到",
+				"enablePullDownRefresh": false
+			}
+
+		}
+	],
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#63acb6",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/img/tabbar/tab1.png",
+				"selectedIconPath": "static/img/tabbar/tab1_on.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/template/templateNew",
+				"iconPath": "static/img/tabbar/tab2.png",
+				"selectedIconPath": "static/img/tabbar/tab2_on.png",
+				"text": "工具箱"
+			},
+			{
+				"pagePath": "pages/user/userNew",
+				"iconPath": "static/img/tabbar/tab4.png",
+				"selectedIconPath": "static/img/tabbar/tab4_on.png",
+				"text": "我的"
+			}
+		]
+	},
+
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
