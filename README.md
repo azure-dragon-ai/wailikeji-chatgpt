@@ -16,6 +16,8 @@ java后台技术采用renren框架：springboot+mybatis-plus+redis
 [https://ai.wailikeji.com](https://ai.wailikeji.com)
 
 
+### 小程序体验地址：
+
 ![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/gh_ded3ffc10d4f_430%20%281%29.jpg)
 
 ### 3、所有的问题咨询类的请不要以差评形式咨询哦！多谢了！感谢支持！我会努力开发一些好的模板开源给大家学习！
