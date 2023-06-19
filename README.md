@@ -13,7 +13,7 @@ java后台技术采用renren框架：springboot+mybatis-plus+redis
 
 ### 2、H5体验地址：
 
-[https://chatgpt.wailikeji.com](https://chatgpt.wailikeji.com)
+[https://ai.wailikeji.com](https://ai.wailikeji.com)
 
 
 ![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/gh_ded3ffc10d4f_430%20%281%29.jpg)
