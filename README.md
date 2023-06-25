@@ -58,4 +58,4 @@ Java后台开发技术、大前端技术
 专业开发移动端,管理后台等各类应用
 
 微信:
-![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/F21C889034DE09754871F6E461FDCE44.png)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/20051687709614_.pic.jpg)
