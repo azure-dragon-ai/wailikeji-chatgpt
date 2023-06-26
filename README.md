@@ -16,7 +16,9 @@ java后台技术采用renren框架：springboot+mybatis-plus+redis
 
 ### 1、微信公众号【外里科技】
 
-### 2、H5体验地址：
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/4435567439E378FC3ABBAC0421DA45D0.png)
+
+### 2、H5体验地址：(请在手机中打开)
 
 [https://ai.wailikeji.com](https://ai.wailikeji.com)
 
