@@ -16,6 +16,9 @@ java后台技术采用renren框架：springboot+mybatis-plus+redis
 [https://ai.wailikeji.com](https://ai.wailikeji.com)
 
 
+### PC体验地址：
+[https://pcai.wailikeji.com](https://pcai.wailikeji.com)
+
 ### 小程序体验地址：
 
 ![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/gh_ded3ffc10d4f_430%20%281%29.jpg)
@@ -42,6 +45,16 @@ AI聊天，流式输出，新建聊天窗口，AI绘图，模型切换
 #### 3、我的
 
 问答记录，卡密兑换，我的团队、签到、邀请好友、提现、开通会员、购买问答币、升级合伙人、佣金提现、问答币流水、关于我们、提现记录、团队成员列表
+
+### PC界面
+
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/6964F1792641C8FAADBE30A27F43072E.jpg)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/8473BA7D-AFFF-4F18-8210-8A1630FD1C9F.png)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/80224E3345A94CA265C02A73C1F40DE4.jpg)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/8A8784D2785D48305D551F1362A517E3.jpg)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/CC1FD9B555358B573DBA2008BE927D73.jpg)
+
+
 
 ### 特别感谢
 
