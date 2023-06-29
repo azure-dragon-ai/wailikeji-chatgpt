@@ -1,12 +1,7 @@
----
-layout: post
-title: Your post title
----
-
 # wailikeji-chatgpt
 
 #### 介绍
-厦门外里科技有限公司chatgpt分销系统
+厦门外里科技有限公司ChatGPT分销系统
 
 #### 软件架构
 用户端uniapp
@@ -54,16 +49,9 @@ AI聊天，流式输出，新建聊天窗口，AI绘图，模型切换
 问答记录，卡密兑换，我的团队、签到、邀请好友、提现、开通会员、购买问答币、升级合伙人、佣金提现、问答币流水、关于我们、提现记录、团队成员列表
 
 ### H5界面
-<div style="display:flex">
-  <img src="https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/chatgpt-h5/FB152226F1520A7244176BA0EA1D919D.jpg" style="width:33%">
-  <img src="https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/chatgpt-h5/26679C2EC2E70ABC7FE042CA0E872988.jpg" style="width:33%">
-  <img src="https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/chatgpt-h5/QQ20230619-1.jpg" style="width:33%">
-</div>
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/1.jpeg)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/2.png)
 
-<div style="display:flex">
-  <img src="https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/chatgpt-h5/QQ20230619-0.jpg" style="width:55%">
-  <img src="https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/chatgpt-h5/FB77B254C6BBD6E1FC4EB4BD701ECF2C.jpg" style="width:55%">
-</div>
 
 ### PC界面
 
