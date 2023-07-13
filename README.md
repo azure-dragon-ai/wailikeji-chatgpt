@@ -11,7 +11,7 @@ java后台技术采用renren框架：springboot+mybatis-plus+redis
 
 ### 1、微信公众号【外里科技】
 
-![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/4435567439E378FC3ABBAC0421DA45D0.png)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/20230713/01642ED1FB1AFB89023D2A94296F3D2F.png)
 
 ### 2、H5体验地址：(请在手机中打开)
 
@@ -49,17 +49,18 @@ AI聊天，流式输出，新建聊天窗口，AI绘图，模型切换
 问答记录，卡密兑换，我的团队、签到、邀请好友、提现、开通会员、购买问答币、升级合伙人、佣金提现、问答币流水、关于我们、提现记录、团队成员列表
 
 ### H5界面
-![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/1.jpeg)
-![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/2.png)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/20230713/%E5%89%AF%E6%9C%AC_%E6%9C%AA%E5%91%BD%E5%90%8D__2023-07-13%2B11_10_17.png)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/20230713/%E9%BB%98%E8%AE%A4%E6%A0%87%E9%A2%98__2023-07-13%2B11_04_44.png)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/20230713/%E9%BB%98%E8%AE%A4%E6%A0%87%E9%A2%98__2023-07-13%2B11_07_41.png)
 
 
 ### PC界面
 
-![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/6964F1792641C8FAADBE30A27F43072E.jpg)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/20230713/B5113E7B6B3F46024FE498B4F4FD3B8F.jpg)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/20230713/0A024900154F5FDB1560FEEA27A93469.jpg)
 ![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/8473BA7D-AFFF-4F18-8210-8A1630FD1C9F.png)
-![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/80224E3345A94CA265C02A73C1F40DE4.jpg)
 ![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/8A8784D2785D48305D551F1362A517E3.jpg)
-![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/CC1FD9B555358B573DBA2008BE927D73.jpg)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/6964F1792641C8FAADBE30A27F43072E.jpg)
 
 
 
