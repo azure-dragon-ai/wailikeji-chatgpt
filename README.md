@@ -76,11 +76,13 @@ AI聊天，流式输出，新建聊天窗口，AI绘图，模型切换，敏感�
 
 ### PC界面
 
-![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/20230713/B5113E7B6B3F46024FE498B4F4FD3B8F.jpg)
-![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/20230713/0A024900154F5FDB1560FEEA27A93469.jpg)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/20230801/E561399BFAECBAFF3D980144579010A7.jpg)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/20230801/00CC52F36CF3C08BFBD95CF1CCA22D29.jpg)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/20230801/10D8E9D147CF95AED33F2C1A2FE62C6C.jpg)
 ![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/8473BA7D-AFFF-4F18-8210-8A1630FD1C9F.png)
-![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/8A8784D2785D48305D551F1362A517E3.jpg)
-![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/6964F1792641C8FAADBE30A27F43072E.jpg)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/20230801/1210AC3ACDD28A1F1D1D396899830F2A.jpg)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/20230801/FF426534C46C8DBF50B8691EC128D12F.jpg)
+![image](https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/20230801/AD246767B526BE027D542322D8B5C1E6.jpg)
 
 
 
